@@ -1,1 +1,2 @@
 Materi berasal dari https://duniailkom.com yang digunakan sebagai referensi dalam memberikan materi pemrograman pascal untuk kompetisi sains nasional cabang informatika.
+Dilengkapi soal dan pembahasan yang kami dapatkan di internet, tanpa mengubah asal sumbernya.
