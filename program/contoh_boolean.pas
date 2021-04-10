@@ -7,7 +7,7 @@ begin
 clrscr;
 c := 5*7;
 d := 2*2;
-a := d=c;
+a := d<c;
 b := 'ADITYA'='ADITYA';
 writeln(a);
 write(b);
