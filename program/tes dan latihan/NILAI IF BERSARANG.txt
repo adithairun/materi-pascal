@@ -1,0 +1,8 @@
+jika nilai >75
+Lulus
+< 75 tidak lulus
+
+nilai 75 - 80 : B
+81- 100 : A
+
+NILAI >75 : C
