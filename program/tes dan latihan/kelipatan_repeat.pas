@@ -8,7 +8,7 @@ i:= 13;
 repeat 
 
 begin
- writeln(i);
+ write(i,' ');
  i:= i+13;
  end;
  until
