@@ -1,3 +1,4 @@
+program latihan_soal_osk;
 var
 am, ra : integer;
 begin

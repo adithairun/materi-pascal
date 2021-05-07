@@ -1,3 +1,4 @@
+program latihan_soal_osp;
 var
 i, j, total : integer;
 begin

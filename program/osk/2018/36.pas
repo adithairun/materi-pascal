@@ -1,4 +1,4 @@
-program soal_osk;
+program latihan_soal_osk;
 var merpati: integer;
 begin
  merpati := 2018;

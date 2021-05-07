@@ -1,4 +1,4 @@
-program soal_osk;
+program latihan_soal_osk;
 var
 a, b, n : integer;
 begin
