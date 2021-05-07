@@ -1,4 +1,4 @@
-program operator_logika;
+program soal_osk;
 var
  n, temp : longint;
 begin
